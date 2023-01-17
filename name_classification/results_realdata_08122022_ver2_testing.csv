@@ -1,0 +1,247 @@
+,name,Nhãn,Kết quả dự đoán,khả năng non_person
+0,ho kd cua hang kdth ngoc duc,0,0,0.9999940991401672
+1,ct tnhh dt va tm minh phuong nam hn,0,0,0.999716579914093
+2,doan tncshcm truong dhbk hn,0,0,0.9993121027946472
+3,dn tu nhan thao hung,0,0,0.998814046382904
+4,ct rpbm khu nha o cbqd,0,0,0.999613344669342
+5,cty tnhh tm va dv tan phuc loc,0,0,0.9999351501464844
+6,quy doi co do-cn long bien,0,0,0.9999864101409912
+7,ho kinh doanh thiet bi y te chau au,0,0,0.9997548460960388
+8,doan thanh nien cn nam da nang,0,0,0.9998268485069275
+9,chi doan cn tran duy hung,0,0,0.9995553493499756
+10,dntn hong phu,0,0,0.9988386631011963
+11,mam non vuong quoc tre tho,0,0,0.9736164808273315
+12,doanh nghiep tu nhan thien hao phat,0,0,0.9983136057853699
+13,ch truc vo huu truc,0,0,0.9810535907745361
+14,ch thien phu  dang van phu,0,0,0.9900130033493042
+15,ch toan an  pham thi hoa,0,0,0.9781672358512878
+16,cong ty tnhh thuong mai dich vu,0,0,0.9999904036521912
+17,ch qtbui thi minh quyen,0,0,0.9886696934700012
+18,quy doi co do - cn dong anh,0,0,0.9999659061431885
+19,ch ton nu nha dien,0,0,0.9965211153030396
+20,chi bo - mb tay ho,0,0,0.9965587854385376
+21,can bo cnv cty tay ho,0,0,0.9999958872795105
+22,cong ty tnhh dien tu huynh nga,0,0,0.999576210975647
+23,clb cac nha cong thuong viet nam,0,0,0.9579676389694214
+24,ch dinh le xuan dinh,0,0,0.9888628721237183
+25,hkd nguyen tien tung,0,0,0.7368991374969482
+26,cua hang thanh son ii,0,0,0.9984447360038757
+27,dntn xang dau thanh hao,0,0,0.9993205070495605
+28,dntn thu mua nong san quang thom,0,0,0.9998692870140076
+29,ho kinh doanh vpp vina,0,0,0.9993658661842346
+30,cua hang thiet bi y te an binh,0,0,0.9994514584541321
+31,tap hoa le van minh,0,0,0.8931790590286255
+32,cty tnhh mtv tmdv xnk thanh tin,0,0,0.9999418258666992
+33,khong su dung,0,0,0.9363071918487549
+34,cty xnk vien thong a tran thi thu,0,0,0.9998157620429993
+35,cua hang dien thoai bui duc long,0,0,0.9997913837432861
+36,tap hoa long cuc buon tul ea wer,0,0,0.9968079328536987
+37,cua hang ddienj thoai mai thi hong,0,0,0.9941902756690979
+38,hkd tran xuan thuyet,0,0,0.9721018075942993
+39,cong ty tnhh tin hoc anh kiet,0,0,0.9998428821563721
+40,cua hang dien thoai bui tan sang,0,0,0.9999450445175171
+41,dtdd le anh tuan,0,0,0.9999260902404785
+42,dai ly mobile hong mai,0,0,0.968194305896759
+43,ho kinh doanh ca the le thi pho,0,0,0.969357967376709
+44,dntn dang thinh,0,0,0.9917082786560059
+45,ho kinh doanh sim so dep,0,0,0.9998341202735901
+46,cua hang may van phong hoang hieu,0,0,0.9999487400054932
+47,cbcnv cty cptmdvth cang hp,0,0,0.9999994039535522
+48,dai ly sim card  nguyen thi thuy,0,0,0.9643967747688293
+49,ho kd tuong linh,0,0,0.9815682172775269
+50,dntn thanh minh,0,0,0.9978215098381042
+51,cua hang tb y te nguyen thi ly,0,0,0.9984467029571533
+52,htx nong nghiep tan dia loi,0,0,0.9991942644119263
+53,cua hang thiet bi y te quynh anh,0,0,0.9994696378707886
+54,"quy hoi cuu sv khoa tieng nn,dhthhn",0,0,0.9982566833496094
+55,cua hang van son,0,0,0.9822438359260559
+56,ho kinh doanh cssk huong sen-hcc,0,0,0.9998505115509033
+57,ho kinh doanh cao van thoi,0,0,0.9992623329162598
+58,co so thu mua mu thuy,0,0,0.9960321187973022
+59,cbcnv truong mau giao kim dong i,0,0,0.999966025352478
+60,co so hung phat 3,0,0,0.9956684112548828
+61,cua hang trang tbi  y te the long,0,0,0.9756802916526794
+62,doanh nghiep tu nhan tm hong liem,0,0,0.9998376965522766
+63,trung tam thiet bi phuong mai linh,0,0,0.918989360332489
+64,hkd nguyen thi kim huong,0,0,0.9819826483726501
+65,kpcd cn lam dong,0,0,0.9999598860740662
+66,cb cnv cong an quan duong kinh,0,0,0.9999895691871643
+67,hkd ca the pham thi my,0,0,0.9743525981903076
+68,lop mam non nu cuoi hong,0,0,0.9969663619995117
+69,co so moc truyen thong  kim bong,0,0,0.9995860457420349
+70,ho trong nghia ctvddv,0,0,0.7710420489311218
+71,cb cnv truong th vh nghe thuat hp,0,0,0.9999979138374329
+72,khong su dung,0,0,0.9363071918487549
+73,quay thuoc tay tan ni,0,0,0.9882644414901733
+74,diem gd viettel xa khanh hoa ha,0,0,0.9992102980613708
+75,dgd vtt khuu minh quang,0,0,0.9997174739837646
+76,dtdd trieu tien,0,0,0.9999160170555115
+77,ho kd muc in va tb may vp htc,0,0,0.9995323419570923
+78,co so tan loc phat,0,0,0.9968990087509155
+79,nhom cbcnv cty tc cp xi mang,0,0,0.9999990463256836
+80,dgdxa nguyen phuong binh,0,0,0.9586005210876465
+81,dgd xa hoang thi sac,0,0,0.9998504519462585
+82,dgd xa lang dai cao thi tuyet minh,0,0,0.9998825192451477
+83,dtdd xuan vien huynh tan lien,0,0,0.9997068047523499
+84,dgd xa tang hoa,0,0,0.9999000430107117
+85,khong su dung,0,0,0.9363071918487549
+86,vpp ha phuong nguyen ngoc binh,0,0,0.9895890951156616
+87,diem gd viettel xa tan thanh phan,0,0,0.9991269707679749
+88,khuat duy quang ttkttm dv tan thuan,0,0,0.9937685132026672
+89,hkd thiet bi y te nguyen ba loi,0,0,0.9973998069763184
+90,trung tam an ninh mang viettel,0,0,0.8559632301330566
+91,trung tam khong gian mang viettel,0,0,0.9684262275695801
+92,diem gd xa thanh phu,0,0,0.9995611310005188
+93,vo thai ngau dtdd hung thinh,0,0,0.9998748302459717
+94,son sam uone,0,1,0.434725284576416
+95,xdnk mien phi tai nghia trang t.son,0,0,0.9994627833366394
+96,dk pham trong duan,0,0,0.8694539666175842
+97,dtdd nhut quang cao le thuy,0,0,0.999984085559845
+98,hai duong planning and construction,0,0,0.993362307548523
+99,khoa qltn rung va moi truong,0,0,0.9997372031211853
+100,cau lac bo than ve nu,0,0,0.961747944355011
+101,hokinh doanhthietbivat tu nhat tin ,0,0,0.9985442161560059
+102,dang bo cs ct ql no va khai thac ts,0,0,0.9118767380714417
+103,ban lien lac truyen thong truong,0,0,0.8827299475669861
+104,dn doan thi linh,0,0,0.9714601635932922
+105,xuong sx gia cong co khi tuan khoa,0,0,0.9912067651748657
+106,diem gd viettel xa muong coi,0,0,0.9995167851448059
+107,vat lieu gia dung-do dien ha phuong,0,0,0.8254094123840332
+108,trung tam cntt viettel 4,0,0,0.9998692870140076
+109,tt nghien cuu tb thong minh viettel,0,0,0.994523823261261
+110,tt dv va tm anh duong,0,0,0.9563155174255371
+111,dtdd au  thai van au,0,0,0.9998329281806946
+112,kpcd cn bao loc,0,0,0.9999396800994873
+113,doanh nghiep tu nhan tuan ha,0,0,0.9982118010520935
+114,hoi phu nu cn tran hung dao,0,0,0.9999107718467712
+115,noi that hoang oanh,0,0,0.9847281575202942
+116,ho ca the th mart,0,0,0.8897813558578491
+117,dntn shin soung,0,0,0.9997209310531616
+118,dtdd phuong dong  pham phuong dong,0,0,0.999544620513916
+119,dtdd lam van hoa,0,0,0.9999336004257202
+120,dt trung phong,0,0,0.9973672032356262
+121,tt kinh doanh san pham cnc viettel,0,0,0.999936580657959
+122,ban lltt trung doan 5 su doan 5,0,1,0.35371923446655273
+123,cong ty tnhh dv vien thong huy phat,0,0,0.9999877214431763
+124,cong ty thanh trung,0,0,0.9335618615150452
+125,viettel ic desgn center (vic),0,0,0.9476906061172485
+126,dien thoai duy linh,0,0,0.8467954397201538
+127,dien thoai thu huong,0,0,0.976216197013855
+128,dien thoai van hung,0,0,0.9799938797950745
+129,cong ty tnhh sim so minh hoang,0,0,0.9999678730964661
+130,cong ty tnhh mot thanh vien dien tu,0,0,0.9995755553245544
+131,ccdvvtld hoang thi loan,0,0,0.9889602065086365
+132,cty tnhh dv vien thong tuyen hoang,0,0,0.9999251961708069
+133,dccdvvt ld pham viet sy,0,0,0.9967530369758606
+134,cs  thanh luan,0,0,0.6074701547622681
+135,ho kd dv truyen hinh anh duong,0,0,0.9955205917358398
+136,proh dtdd minh ii  trinh ngoc lai,0,0,0.9996245503425598
+137,nguyen quang trung ccdvvtluu dong,0,0,0.981968343257904
+138,pham thi vi ccdvvt luu dong dt,0,0,0.9998403191566467
+139,bui thuy quynh tram ccdvvt luu dong,0,0,0.9626875519752502
+140,tran bao tuan ccdvvt luu dong dt,0,0,0.9995384812355042
+141,dien thoai dd anh vu,0,0,0.9995009303092957
+142,dtdd long vu,0,0,0.9998824000358582
+143,dien thoai hung phat,0,0,0.971009373664856
+144,dccdvvt ld tran thi khanh,0,0,0.9972753524780273
+145,pk ngoc tuoi,0,0,0.9960827231407166
+146,dt phuong nam,0,0,0.9970009326934814
+147,dl tran huy luan,0,0,0.990231454372406
+148,dien thoai kha vy,0,0,0.9781816005706787
+149,diem gd viettel xa huong vinh phan,0,0,0.9981530904769897
+150,pk th loan,0,0,0.998726487159729
+151,dl vo thi huong,0,0,0.9435115456581116
+152,pk sua tam nguyen,0,0,0.9988746643066406
+153,pk quan an pham nga,0,0,0.998373806476593
+154,pk pham huynh kim ngan,0,0,0.9966068863868713
+155,quay thuoc so 07,0,0,0.9972080588340759
+156,cafebida phuong ngan,0,0,0.9977072477340698
+157,cafe phuoc thanh,0,0,0.9668900966644287
+158,dlbd 18 pham thi dung,0,0,0.9999172687530518
+159,xuan trung mobile,0,0,0.9488846063613892
+160,dccdvvtld tran thi hoe,0,0,0.998762309551239
+161,dtdd minh tai,0,0,0.9999292492866516
+162,dtdd tuan mobile,0,0,0.9999187588691711
+163,cn hoan kiem,0,0,0.9691674709320068
+164,dtb 3 pham thi lu,0,0,0.997515857219696
+165,dl pham thi hoan,0,0,0.919910728931427
+166,doanh nghiep tu nhan tri diem,0,0,0.9985641241073608
+167,pk tran kiem,0,0,0.9933061003684998
+168,dl truong thi hong,0,0,0.9926088452339172
+169,dtd 6 bui niem,0,0,0.999942421913147
+170,dtb gi van,0,0,0.9997127056121826
+171,dtl tran thi bao yen,0,0,0.9996408820152283
+172,cafe lieu pn,0,0,0.9962562918663025
+173,cd ctcp nhua va mt xanh an phat,0,0,0.9979336261749268
+174,dn tn xd mien trung tinh dien bien,0,0,0.9999682903289795
+175,noi that va xay dung dung tuan,0,0,0.9910933375358582
+176,quan ruou xa lo 4,0,0,0.9946397542953491
+177,lop d33 21b1,0,0,0.9880703091621399
+178,cscb tm hat dieu nguyen thi hoa,0,0,0.9999370574951172
+179,phong kham benh y hoc trung quoc,0,0,0.9994753003120422
+180,cn phong kham benh y hoc trung quoc,0,0,0.9999969601631165
+181,hoi dong phan toc ha noi,0,0,0.9990625977516174
+182,phong dv kh mb quang ngai,0,0,0.9998220801353455
+183,tt thiet bi pccc 4-10,0,0,0.9331042766571045
+184,trung tam viettel vas,0,0,0.9259994029998779
+185,phong kham da khoa rang dong,0,0,0.995214581489563
+186,co so duy manh-phan van linh,0,0,0.9899053573608398
+187,nhtmcp quan doi-cn dong sai gon,0,0,0.999993085861206
+188,doan tn mb cn hoan kiem,0,0,0.9997178316116333
+189,hoi dong huong tt hue tai hn,0,0,0.9982526898384094
+190,ho kd ca the nguyen viet hai,0,0,0.9893592000007629
+191,phong tt htro nguoi nop thue-cuc,0,0,0.9998586177825928
+192,nhom kh vay xk lao dong cty sona,0,0,0.9999734163284302
+193,lop iemba 9c hsb,0,0,0.9837415814399719
+194,quy ho tro an sinh cua nguoi khuyet,0,0,0.9938727021217346
+195,ho kd ct vu thi kim dung,0,0,0.9938052892684937
+196,ho kd banh mi ha noi,0,0,0.996697187423706
+197,co so thu mua ca phe nong san ngoc,0,0,0.9972667694091797
+198,trung tam phia nam-viettel -idc,0,0,0.9834213256835938
+199,trung tam thiet bi pccc ba dinh,0,0,0.9877834916114807
+200,nhom xkld - malaysia ttlc ,0,0,0.9695799350738525
+201,xi nghiep tu nhan thanh nam,0,0,0.9987658262252808
+202,cbcnv - cty bao hiem nhan tho hp,0,0,0.9999992251396179
+203,cs xoi ho nguyen thi ngoc huong,0,0,0.9929023385047913
+204,cong doan bp mb nguyen tri phuong,0,0,0.9864686727523804
+205,ho kinh doanh karaoke phan tom pq,0,0,0.9994834065437317
+206,cong doan bp cn dinh tien hoang,0,0,0.9999733567237854
+207,nha khoa xanh,0,0,0.9935141801834106
+208,truong van dung-vp luat su tri dung,0,0,0.9956795573234558
+209,nha cung cap noi that va tm duc hai,0,0,0.9995079040527344
+210,tt cung ung tb vhgd va truyen thong,0,0,0.999858558177948
+211,shop hoa tuoi hoa hong,0,0,0.9834088683128357
+212,clb bong da hoi dn tre tinh hd,0,0,0.999900221824646
+213,bql da dt nang cao nlcn nganh,0,0,0.9999925494194031
+214,htx van tai truong hai,0,0,0.9911773800849915
+215,ht mobile nguyen thanh tri,0,0,0.9745197296142578
+216,dn tn ha diep anh cn phu tho,0,0,0.9999978542327881
+217,phan huynh long  diem ban tap hoa,0,0,0.9993010759353638
+218,ct tnhh dau tu va cong nghe dcg,0,0,0.9752101302146912
+219,le thi loan(ho kdca the),0,0,0.8827641010284424
+220,quy hiem muon btl bo doi bien phong,0,0,0.9988664984703064
+221,doan hai tien,1,1,0.028847217559814453
+222,keu,0,0,0.8923680782318115
+223,khoa kb da khoa 108 cn bui van tan,0,0,0.9999532699584961
+224,phong kham da khoa huong son,0,0,0.999117910861969
+225,dccdvvtldphan vu vuong,0,0,0.9503543376922607
+226,phan quoc tuan - dntn quoc tuan,0,0,0.9952349066734314
+227,hkd tong kho gia dung huong bui,0,0,0.9970071911811829
+228,hkd hoang anh,0,0,0.9431549906730652
+229,ho kinh quoc thai,0,0,0.9567562937736511
+230,hkd quay thuoc thien phuc,0,0,0.9992608428001404
+231,hkd nguyen thi hien,0,0,0.9492390751838684
+232,hkd vpp thiet bi vp tkt,0,0,0.9990634322166443
+233,hkd lucky boutique,0,0,0.9906420111656189
+234,hkd thanh ha,0,0,0.9576988220214844
+235,hkd tb may van phong thuan phat,0,0,0.9946560263633728
+236,hkd lam dep cong nghe cao ada,0,0,0.9994809031486511
+237,hoi cbcq trung uong va dn ha nam,0,0,0.9999988675117493
+238,hoi cbcq trung uong va dn bac thai,0,0,0.9999992251396179
+239,bdd cmhs truong thcs thanh liet,0,0,0.995730996131897
+240,uong quang hai,1,1,0.046990036964416504
+241,truong dai hoc mo,0,0,0.9830656051635742
+242,ho kinh gia bao,0,0,0.951046347618103
+243,ho kinh doanh tran van quynh,0,0,0.9468539357185364
+244,cuc quan ly xuat nhap canh,0,0,0.9977735877037048
+245,truong dai hoc mo,0,0,0.9830656051635742
